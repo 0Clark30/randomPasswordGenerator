@@ -18,8 +18,8 @@ Using input of criteria such as: special characters, upper/lower case, numerics,
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
-[deployed](https://0clark30.github.io/rockpaperscissors/)
-[githublink](https://github.com/0Clark30/rockpaperscissors)
+[deployed](https://0clark30.github.io/randomP9asswordGenerator/)
+[githublink](https://github.com/0Clark30/randomPasswordGenerator)
     
    ![Screenshot](./Assets/images/rpg%20ss.png)
 
